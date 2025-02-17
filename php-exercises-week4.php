@@ -129,7 +129,7 @@
 <div class="grid-item">
 Övning 12:<h2>SessionShredder</h2>
 <?php
-//Skapa ett PHP-skript som tar bort all sessionsdata, men behåller sessionen. Till exempel så behöver varukorgen.
+//Skapa ett PHP-skript som tar bort all sessionsdata, men behåller sessionen. Till exempel för att tömma en varukorg.
 ?>
 <a href="week4pages/destroySessionData.php">Destroy Sessions</a>
 
