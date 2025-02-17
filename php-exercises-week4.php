@@ -41,7 +41,7 @@
 Övning 1:<h2>MyFirstDB</h2> 
 <?php
 //Skapa en MySQL databas med PHPMyAdmin via http://localhost/phpmyadmin/
-//Obs, glöm int att starta MySQL med XAMPP först.
+//Obs, glöm inte att starta MySQL med XAMPP först.
 //Skriv PHP-kod för att ansluta till en MySQL-databas. Skriv ut "Success" om du lyckades ansluta och "Failure" om det inte funkade.
 
 ?>
