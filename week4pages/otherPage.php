@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,5 +11,14 @@
 </head>
 <body>
     
+
+<?php
+
+foreach ($_SESSION['cart'] as $product) {
+    echo $product . "<br>";
+}
+
+?>
+
 </body>
 </html>
